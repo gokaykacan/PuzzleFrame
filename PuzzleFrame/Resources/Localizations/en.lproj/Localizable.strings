@@ -1,0 +1,71 @@
+/* Main Menu */
+"main.title" = "PuzzleFrame";
+"main.select.image" = "Select Image";
+"main.settings" = "Settings";
+"main.difficulty.easy" = "Easy (4×4)";
+"main.difficulty.medium" = "Medium (8×8)";
+"main.difficulty.hard" = "Hard (16×16)";
+"main.difficulty.expert" = "Expert (32×32)";
+"main.difficulty.master" = "Master (64×64)";
+
+/* Image Selection */
+"gallery.title" = "Select Image";
+"gallery.bundled" = "PuzzleFrame Gallery";
+"gallery.photos" = "My Photos";
+"gallery.select.image" = "Select Image";
+"gallery.loading" = "Loading...";
+
+/* Puzzle Game */
+"puzzle.pause" = "Pause";
+"puzzle.resume" = "Resume";
+"puzzle.time" = "Time: %@";
+"puzzle.moves" = "Moves: %d";
+"puzzle.menu" = "Main Menu";
+"puzzle.new" = "New Puzzle";
+"puzzle.quit" = "Quit Game";
+"puzzle.quit.title" = "Quit Game?";
+"puzzle.quit.message" = "Are you sure you want to quit? Your progress will be lost.";
+"puzzle.quit.confirm" = "Quit";
+
+/* Completion */
+"completion.title" = "Congratulations!";
+"completion.message" = "You solved the puzzle!";
+"completion.time" = "Time: %@";
+"completion.moves" = "Moves: %d";
+"completion.share" = "Share";
+"completion.new.puzzle" = "New Puzzle";
+"completion.change.difficulty" = "Change Difficulty";
+"completion.main.menu" = "Main Menu";
+
+/* Settings */
+"settings.title" = "Settings";
+"settings.language" = "Language";
+"settings.language.english" = "English";
+"settings.language.turkish" = "Türkçe";
+"settings.sound" = "Sound Effects";
+"settings.haptic" = "Haptic Feedback";
+"settings.timer" = "Show Timer";
+"settings.reset.scores" = "Reset High Scores";
+"settings.version" = "Version";
+"settings.photo.access" = "Photo Library Access";
+
+/* Permissions */
+"permission.photos.title" = "Photo Access Required";
+"permission.photos.message" = "PuzzleFrame needs access to your photos to create custom puzzles from your images.";
+"permission.photos.settings" = "Open Settings";
+"permission.photos.cancel" = "Cancel";
+
+/* Errors */
+"error.title" = "Error";
+"error.image.load" = "Failed to load image";
+"error.image.process" = "Failed to process image";
+"error.permission.denied" = "Permission denied";
+"error.memory.low" = "Memory is running low";
+"error.generic" = "An error occurred";
+
+/* Common */
+"common.ok" = "OK";
+"common.cancel" = "Cancel";
+"common.done" = "Done";
+"common.back" = "Back";
+"common.loading" = "Loading...";

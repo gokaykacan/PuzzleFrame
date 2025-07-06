@@ -1,0 +1,71 @@
+/* Main Menu */
+"main.title" = "PuzzleFrame";
+"main.select.image" = "Resim Seç";
+"main.settings" = "Ayarlar";
+"main.difficulty.easy" = "Kolay (4×4)";
+"main.difficulty.medium" = "Orta (8×8)";
+"main.difficulty.hard" = "Zor (16×16)";
+"main.difficulty.expert" = "Uzman (32×32)";
+"main.difficulty.master" = "Usta (64×64)";
+
+/* Image Selection */
+"gallery.title" = "Resim Seç";
+"gallery.bundled" = "PuzzleFrame Galerisi";
+"gallery.photos" = "Fotoğraflarım";
+"gallery.select.image" = "Resim Seç";
+"gallery.loading" = "Yükleniyor...";
+
+/* Puzzle Game */
+"puzzle.pause" = "Duraklat";
+"puzzle.resume" = "Devam Et";
+"puzzle.time" = "Süre: %@";
+"puzzle.moves" = "Hamle: %d";
+"puzzle.menu" = "Ana Menü";
+"puzzle.new" = "Yeni Yapboz";
+"puzzle.quit" = "Oyundan Çık";
+"puzzle.quit.title" = "Oyundan Çık?";
+"puzzle.quit.message" = "Çıkmak istediğinizden emin misiniz? İlerlemeniz kaybolacak.";
+"puzzle.quit.confirm" = "Çık";
+
+/* Completion */
+"completion.title" = "Tebrikler!";
+"completion.message" = "Yapbozu çözdünüz!";
+"completion.time" = "Süre: %@";
+"completion.moves" = "Hamle: %d";
+"completion.share" = "Paylaş";
+"completion.new.puzzle" = "Yeni Yapboz";
+"completion.change.difficulty" = "Zorluk Değiştir";
+"completion.main.menu" = "Ana Menü";
+
+/* Settings */
+"settings.title" = "Ayarlar";
+"settings.language" = "Dil";
+"settings.language.english" = "English";
+"settings.language.turkish" = "Türkçe";
+"settings.sound" = "Ses Efektleri";
+"settings.haptic" = "Dokunsal Geri Bildirim";
+"settings.timer" = "Süreyi Göster";
+"settings.reset.scores" = "Skorları Sıfırla";
+"settings.version" = "Sürüm";
+"settings.photo.access" = "Fotoğraf Erişimi";
+
+/* Permissions */
+"permission.photos.title" = "Fotoğraf Erişimi Gerekli";
+"permission.photos.message" = "PuzzleFrame özel yapbozlar oluşturmak için fotoğraflarınıza erişime ihtiyaç duyar.";
+"permission.photos.settings" = "Ayarları Aç";
+"permission.photos.cancel" = "İptal";
+
+/* Errors */
+"error.title" = "Hata";
+"error.image.load" = "Resim yüklenemedi";
+"error.image.process" = "Resim işlenemedi";
+"error.permission.denied" = "İzin reddedildi";
+"error.memory.low" = "Bellek yetersiz";
+"error.generic" = "Bir hata oluştu";
+
+/* Common */
+"common.ok" = "Tamam";
+"common.cancel" = "İptal";
+"common.done" = "Bitti";
+"common.back" = "Geri";
+"common.loading" = "Yükleniyor...";
